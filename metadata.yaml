@@ -1,0 +1,29 @@
+_repo: The-Hawaiian-Islands--13-Their-Resources-Agricultural-Commercial-and-Financial_29383
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29383-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawaii. Department of Foreign Affairs
+    aliases:
+    - Hawaii. Dept. of Foreign Affairs
+    - Hawaiian Islands. Dept. of Foreign Affairs
+    gutenberg_agent_id: '33885'
+    url: http://www.gutenberg.org/2009/agents/33885
+description: ''
+gutenberg_issued: '2009-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29383'
+  lccn: 05013491
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawaii -- Economic conditions'
+- !lcc 'DU'
+- !lcsh 'Hawaii'
+title: "The Hawaiian Islands\r\nTheir Resources, Agricultural, Commercial and Financial"
+url: http://www.gutenberg.org/ebooks/29383
